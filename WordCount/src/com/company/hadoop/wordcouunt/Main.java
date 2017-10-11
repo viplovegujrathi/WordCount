@@ -1,4 +1,4 @@
-package com.capgemini.hadoop.wordcouunt;
+package com.company.hadoop.wordcouunt;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

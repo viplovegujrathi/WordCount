@@ -1,4 +1,4 @@
-package com.capgemini.hadoop.wordcouunt;
+package com.company.hadoop.wordcouunt;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
